@@ -1,0 +1,1218 @@
+{
+  "categories": [
+    { "id": "1", "name": "Kitchen", "color": "#689f88", "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=400&q=80" },
+    { "id": "2", "name": "Cleaning Supplies", "color": "#3b82f6", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROrQGAz-zq5g1wqyTxVAHZe2fGFO6bdQ1RGmaCH68MYA&s=10" },
+    { "id": "3", "name": "Storage Items", "color": "#10b981", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhx4VuhkP1UGvJoFa1EWoHJoyWVEOQe7awkTSuu6e-w&s=10" },
+    { "id": "4", "name": "Utility Items", "color": "#0ea5e9", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJOJfD8Sa4dZRx4yIQMR8zVKazmUI3Tge1nCDbAQNgA&s=10" },
+    { "id": "5", "name": "Home Decor", "color": "#82ca9d", "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=400&q=80" },
+    { "id": "6", "name": "Furniture", "color": "#f8b056", "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80" },
+    { "id": "7", "name": "Groceries", "color": "#f3b44b", "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80" },
+    { "id": "8", "name": "Bedding & Linens", "color": "#a855f7", "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=400&q=80" },
+    { "id": "9", "name": "Bathroom Essentials", "color": "#06b6d4", "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&q=80" },
+    { "id": "10", "name": "Lighting & Decor", "color": "#eab308", "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&q=80" },
+    { "id": "11", "name": "Laundry Care", "color": "#ec4899", "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?w=400&q=80" },
+    { "id": "12", "name": "Gardening & Plants", "color": "#22c55e", "image": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?w=400&q=80" }
+  ],
+  "products": [
+    {
+      "id": "kitch-101",
+      "name": "Non-Stick Ceramic Cookware Set",
+      "price": 2499,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQs5B0RWT61m7fm3vV40l186_ia58_fLWl20j8lVvUA&s",
+      "description": "Durable non-stick pan set ideal for healthy home cooking with minimal oil.",
+      "rating": 4.8,
+      "stock": 18
+    },
+    {
+      "id": "kitch-102",
+      "name": "Stainless Steel Kitchen Knife Block",
+      "price": 1299,
+      "category": "Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71vq5Uxku3L._AC_UF350,350_QL80_.jpg",
+      "description": "Precision razor-sharp stainless steel culinary knife set with wooden block.",
+      "rating": 4.6,
+      "stock": 25
+    },
+    {
+      "id": "kitch-103",
+      "name": "Heavy Duty Cast Iron Skillet",
+      "price": 1599,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KFUr_SGzxpyXCo_P3PwrXQX8c-fY1T5AGxAVUn9sQA&s=10",
+      "description": "Pre-seasoned cast iron skillet for superior heat retention and searing.",
+      "rating": 4.9,
+      "stock": 12
+    },
+    {
+      "id": "kitch-104",
+      "name": "Organic Bamboo Cutting Board Set",
+      "price": 699,
+      "category": "Kitchen",
+      "image": "https://m.media-amazon.com/images/I/91BhEbBANlL.jpg",
+      "description": "Knife-friendly natural bamboo chopping boards with juice grooves.",
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": "kitch-105",
+      "name": "Silicone Cooking Utensil 10-Piece Set",
+      "price": 899,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6FBQXhN3vGzDP7NLaM2yOR6m4RoudaAtwCd_pPIr1w&s=10",
+      "description": "Heat-resistant BPA-free silicone kitchen utensils with wooden handles.",
+      "rating": 4.5,
+      "stock": 20
+    },
+    {
+      "id": "kitch-106",
+      "name": "Stainless Steel Measuring Spoons & Cups Set",
+      "price": 399,
+      "category": "Kitchen",
+      "image": "https://m.media-amazon.com/images/I/61QDkUVepSL._AC_UF894,1000_QL80_.jpg",
+      "description": "Heavy-gauge rustproof stainless steel spoons and cups for precise recipe measurements.",
+      "rating": 4.8,
+      "stock": 40
+    },
+    {
+      "id": "kitch-107",
+      "name": "Digital Instant Read Kitchen Meat Thermometer",
+      "price": 599,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPll3cZfy7QomHh-YCbRD6PU4XIUuFdrCdcAmceMV5yQ&s=10",
+      "description": "Fast and accurate temperature readout probe for baking, grilling, and cooking.",
+      "rating": 4.7,
+      "stock": 25
+    },
+    {
+      "id": "kitch-108",
+      "name": "Insulated Stainless Steel Water Bottle 1L",
+      "price": 799,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-V6R1ION_H1lDPxx7zthudP-DdFiEbJkZ6rwQ6Hd_RQ&s",
+      "description": "Double wall vacuum insulated flask that keeps drinks ice cold or hot for hours.",
+      "rating": 4.9,
+      "stock": 30
+    },
+    {
+      "id": "kitch-109",
+      "name": "Manual Hand Crank Food Chopper",
+      "price": 449,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xWHhrJJdDl_JEytxg-ld4G7avyeARqIspqZZKkGa8Q&s=10",
+      "description": "Compact pull-string vegetable chopper for quick onions, garlic, and herbs slicing.",
+      "rating": 4.4,
+      "stock": 22
+    },
+    {
+      "id": "kitch-110",
+      "name": "Glass Olive Oil Dispenser Bottle",
+      "price": 349,
+      "category": "Kitchen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTs2I9hPyC3d6yc7SHjDjuTgIjnu1itSXc3d9fMkDoaA&s=10",
+      "description": "Drip-free glass cruet bottle with pour spout for cooking oils and vinegars.",
+      "rating": 4.6,
+      "stock": 35
+    },
+    {
+      "id": "clean-201",
+      "name": "Multi-Surface Spray Cleaner 500ml",
+      "price": 349,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfK8QtEaW2llb6VsY2yjm7kBOT3ZLney_5BZsPdF6nJQ&s=10",
+      "description": "Eco-friendly natural citrus scent cleaner for countertops and glass.",
+      "rating": 4.5,
+      "stock": 50
+    },
+    {
+      "id": "clean-202",
+      "name": "Microfiber Cleaning Cloth Pack (6 Pcs)",
+      "price": 299,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlVUyxA97jz8iD7inLVcXGh9g0GfgxGzJpL0pcFvJjA&s=10",
+      "description": "Ultra-absorbent lint-free microfiber towels for streak-free cleaning.",
+      "rating": 4.7,
+      "stock": 40
+    },
+    {
+      "id": "clean-203",
+      "name": "360-Degree Spin Mop & Bucket System",
+      "price": 1499,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdh83QBhiki7buJTPjPhRrnEHRqbw-2GWTRsiFy4yfpQ&s=10",
+      "description": "Hands-free wringing spin mop with 2 reusable washable microfiber heads.",
+      "rating": 4.6,
+      "stock": 15
+    },
+    {
+      "id": "clean-204",
+      "name": "Heavy Duty Scrub Brushes Set",
+      "price": 249,
+      "category": "Cleaning Supplies",
+      "image": "https://m.media-amazon.com/images/I/614XIfWiE3L._AC_UF894,1000_QL80_.jpg",
+      "description": "Stiff bristle brushes designed for bathroom tiles and stubborn stains.",
+      "rating": 4.4,
+      "stock": 35
+    },
+    {
+      "id": "clean-205",
+      "name": "Eco-Friendly Dishwashing Liquid 1L",
+      "price": 199,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ252cmL7pMbnhbGwkznsQeFqW95wfXSoHQ9pYuetcSQ&s=10",
+      "description": "Plant-based grease-cutting formula gentle on hands and the environment.",
+      "rating": 4.8,
+      "stock": 60
+    },
+    {
+      "id": "clean-206",
+      "name": "Heavy Duty Rubber Cleaning Gloves (Pair)",
+      "price": 149,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJWzdkEKDSj-9iHnzU8fttMDocxdE7zDxb2mZafXIKw&s",
+      "description": "Non-slip waterproof reusable latex gloves with soft flock lining for hand protection.",
+      "rating": 4.6,
+      "stock": 50
+    },
+    {
+      "id": "clean-207",
+      "name": "Extendable Window Glass Cleaner Squeegee",
+      "price": 499,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7GpdgW9B_qwoyJb9G98Oq5pqYsR2pTbnLX6DngG4hg&s=10",
+      "description": "2-in-1 window washing tool with microfiber scrubber and rubber squeegee blade.",
+      "rating": 4.7,
+      "stock": 20
+    },
+    {
+      "id": "clean-208",
+      "name": "Toilet Bowl Cleaner Brush Set",
+      "price": 299,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWqjMRtfKla7TWe_ljfhHOZvYDwBnh7WQ2c66GQjkiw&s=10",
+      "description": "Sturdy ergonomic bowl brush with quick-drying compact storage holder base.",
+      "rating": 4.5,
+      "stock": 30
+    },
+    {
+      "id": "clean-209",
+      "name": "All-Purpose Stainless Steel Scouring Pads",
+      "price": 129,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWN9nOOJ9StLDzKkBmFewQrBh3F5cxC3tJvBL8RjsD9Q&s=10",
+      "description": "Tough metal scrubbers for removing burnt-on food and grime from cookware.",
+      "rating": 4.8,
+      "stock": 45
+    },
+    {
+      "id": "clean-210",
+      "name": "Dustpan and Broom Cleaning Set",
+      "price": 599,
+      "category": "Cleaning Supplies",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMQHzkvjJDSXKhB5fDhH4SIFJyD5Wm5cRg6r_IQeKpg&s=10",
+      "description": "Upright broom snapping securely into dustpan with built-in comb teeth.",
+      "rating": 4.6,
+      "stock": 18
+    },
+    {
+      "id": "store-301",
+      "name": "Airtight Glass Food Storage Containers",
+      "price": 899,
+      "category": "Storage Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJS9PhlThgnEQ6HUqfS6Sit8PP1KEo_9wLw9N8nQJ9dA&s",
+      "description": "BPA-free leakproof glass containers with clip-on locking lids.",
+      "rating": 4.9,
+      "stock": 30
+    },
+    {
+      "id": "store-302",
+      "name": "Stackable Wardrobe Organizer Bins",
+      "price": 749,
+      "category": "Storage Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZFH4aX13C6gkfD8d1kQtCOmzKmvb-Ll_K5lfD8Owq9Q&s=10",
+      "description": "Collapsible fabric storage boxes ideal for clothes, towels, and bedsheets.",
+      "rating": 4.6,
+      "stock": 25
+    },
+    {
+      "id": "store-303",
+      "name": "Under-Bed Storage Bags with Clear Window",
+      "price": 599,
+      "category": "Storage Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnLcJzw9ONiv57AaUL1CsFeUWl7bUNgR6xIKOv0tjvg&s",
+      "description": "Large capacity breathable organizer bags for seasonal blankets and comforters.",
+      "rating": 4.7,
+      "stock": 28
+    },
+    {
+      "id": "store-304",
+      "name": "3-Tier Rolling Kitchen Utility Cart",
+      "price": 1699,
+      "category": "Storage Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7AvYImG07X76UxQBeEeeR0F3eCbKd1bjm7hWszVkwA&s",
+      "description": "Mobile metal storage trolley with lockable wheels for pantry items.",
+      "rating": 4.8,
+      "stock": 14
+    },
+    {
+      "id": "store-305",
+      "name": "Adjustable Drawer Divider Organizers",
+      "price": 449,
+      "category": "Storage Items",
+      "image": "https://m.media-amazon.com/images/I/515VLVrznaL._AC_UF894,1000_QL80_.jpg",
+      "description": "Expandable drawer separators for cutlery, cosmetics, and office supplies.",
+      "rating": 4.5,
+      "stock": 40
+    },
+    {
+      "id": "store-306",
+      "name": "Wall-Mounted Broom & Mop Holder Rack",
+      "price": 349,
+      "category": "Storage Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtjLxB_mlCIvOuVb6pB1jGkSX16-ARk46_91i2imAVw&s=10 ",
+      "description": "Space-saving wall organizer with automatic spring clamps and utility hooks.",
+      "rating": 4.7,
+      "stock": 35
+    },
+    {
+      "id": "store-307",
+      "name": "Plastic Shoe Storage Boxes Stackable",
+      "price": 3999,
+      "category": "Storage Items",
+      "image": "https://m.media-amazon.com/images/I/81tr4uR2DkL.jpg",
+      "description": "Clear front door drop-down shoe boxes for organized entryway and closet storage.",
+      "rating": 4.8,
+      "stock": 20
+    },
+    {
+      "id": "store-308",
+      "name": "Hanging Closet Organizer with Shelves",
+      "price": 649,
+      "category": "Storage Items",
+      "image": "https://www.homestrap.com/cdn/shop/files/beige.webp?v=1776168433",
+      "description": "6-shelf fabric hanging wardrobe organizer for sweaters, t-shirts, and accessories.",
+      "rating": 4.6,
+      "stock": 22
+    },
+    {
+      "id": "store-309",
+      "name": "Clear Acrylic Makeup and Jewelry Organizer",
+      "price": 549,
+      "category": "Storage Items",
+      "image": "https://m.media-amazon.com/images/I/81IljDpUNOL.jpg",
+      "description": "Multi-drawer cosmetic storage display case for vanity countertops.",
+      "rating": 4.9,
+      "stock": 26
+    },
+    {
+      "id": "store-310",
+      "name": "Vacuum Storage Bags with Hand Pump",
+      "price": 799,
+      "category": "Storage Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPsT-rBYH3dbQ0tUpHCa0Gmx214cBWfg9luposs7zng&s=10",
+      "description": "Space-saver compression seal bags to shrink bulky winter clothes and duvets by 80%.",
+      "rating": 4.7,
+      "stock": 33
+    },
+    {
+      "id": "daily-401",
+      "name": "Stainless Steel Multi-Tool Kit",
+      "price": 699,
+      "category": "Utility Items",
+      "image": "https://m.media-amazon.com/images/I/615TolyxCqL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Compact everyday carry toolkit for quick household repairs.",
+      "rating": 4.6,
+      "stock": 22
+    },
+    {
+      "id": "daily-402",
+      "name": "Rechargeable LED Emergency Torch",
+      "price": 499,
+      "category": "Utility Items",
+      "image": "https://images.naptol.com/usr/local/csp/staticContent/product_images/horizontal/750x750/L57-1.jpg",
+      "description": "High-lumen portable flashlight with USB charging and long battery life.",
+      "rating": 4.7,
+      "stock": 35
+    },
+    {
+      "id": "daily-403",
+      "name": "Heavy Duty Extension Cord Board",
+      "price": 599,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigO-6xuXIxiPW9jGeSRxJCICPhkXTi62CyR2Qi4OgDA&s=10",
+      "description": "4-socket surge protected power strip with individual switches and 3m cord.",
+      "rating": 4.8,
+      "stock": 30
+    },
+    {
+      "id": "daily-404",
+      "name": "Digital Household Weighing Scale",
+      "price": 899,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cWNGxL-jS8SrM-uyIwDkhlC9XJng5qRyDjFfZR0OdA&s=10",
+      "description": "Precision LCD display scale for parcels, luggage, and household needs.",
+      "rating": 4.5,
+      "stock": 20
+    },
+    {
+      "id": "daily-405",
+      "name": "Heavy Duty Anti-Slip Step Stool",
+      "price": 649,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMLUGY2GPEUC3de0m7a4QjkdSmDPTtFGOcGNWPglLnw&s",
+      "description": "Foldable compact step stool with textured grip surface for reaching high shelves.",
+      "rating": 4.7,
+      "stock": 18
+    },
+    {
+      "id": "daily-406",
+      "name": "Rechargeable Automatic Water Bottle Pump",
+      "price": 449,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3o0BRSidcF8g8F_owdahk_B2hcTc7y1kye1zBv8Fbog&s=10",
+      "description": "USB-rechargeable electric drinking water dispenser suitable for 20-liter jars.",
+      "rating": 4.6,
+      "stock": 45
+    },
+    {
+      "id": "daily-407",
+      "name": "Portable Lint Roller with Refills",
+      "price": 249,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtI6IsLuZTEYfa1xPE7t1_me5WtISjwHEMppWTYcjPQ&s=10",
+      "description": "Sticky pet hair and dust remover roller with easy-peel adhesive sheets.",
+      "rating": 4.8,
+      "stock": 50
+    },
+    {
+      "id": "daily-408",
+      "name": "Stainless Steel Key Holder Wall Rack",
+      "price": 349,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKrSGVlgyiS6bxrlnmhzgJa0LIchV416bXPZXZMbdcwg&s=10",
+      "description": "Entryway mail holder and key hook organizer with modern sleek metallic finish.",
+      "rating": 4.5,
+      "stock": 28
+    },
+    {
+      "id": "daily-409",
+      "name": "Travel Umbrella Windproof Compact",
+      "price": 499,
+      "category": "Utility Items",
+      "image": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/umbrella/p/8/q/quality-compact-travel-umbrella-windproof-and-sunproof-for-men-original-imahc67zcyt3c2kh.jpeg?q=70",
+      "description": "Automatic open and close UV-blocking folding umbrella for daily commuting.",
+      "rating": 4.7,
+      "stock": 24
+    },
+    {
+      "id": "daily-410",
+      "name": "Silicone Stretch Lids Bowl Covers (6 Pcs)",
+      "price": 299,
+      "category": "Utility Items",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0iMCDn-AWsgfhbXz10O3Srng5VESVrqySSF8wB_W5g&s=10",
+      "description": "Reusable expandable food covers replacing disposable plastic wrap.",
+      "rating": 4.6,
+      "stock": 40
+    },
+    {
+      "id": "decor-501",
+      "name": "Minimalist Ceramic Flower Vase",
+      "price": 799,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu4OtVSCXGJkSpH3RIKp_iILMAGN3Ggf3YENbS7ZwasQ&s",
+      "description": "Handcrafted matte ceramic vase suitable for living room side tables.",
+      "rating": 4.7,
+      "stock": 15
+    },
+    {
+      "id": "decor-502",
+      "name": "Woven Macrame Wall Hanging",
+      "price": 699,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRAYUxgSmVdpABhK43j7BUqR1M4MHEnmJ_E5LSUvEU2g&s=10",
+      "description": "Bohemian style cotton rope tapestry for bedroom and living space decor.",
+      "rating": 4.8,
+      "stock": 20
+    },
+    {
+      "id": "decor-503",
+      "name": "Modern Decorative Throw Pillow Covers (Set of 2)",
+      "price": 499,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLZ0W61QwVVYgGz5QUeueCqhZ7zprT1K17cFrfWlEXQ&s",
+      "description": "Soft velvet cushion covers with hidden zippers for couch and sofa.",
+      "rating": 4.6,
+      "stock": 35
+    },
+    {
+      "id": "decor-504",
+      "name": "Aromatherapy Scented Soy Candle",
+      "price": 399,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUlm_hfiHs8Jj0j4_0dy9_MHc7v86VJYBi7O68T26Mw&s=10",
+      "description": "Hand-poured natural soy wax candle with calming lavender and eucalyptus notes.",
+      "rating": 4.9,
+      "stock": 45
+    },
+    {
+      "id": "decor-505",
+      "name": "Round Decorative Wall Mirror",
+      "price": 1499,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLzKWaplOdlJJuvwZphUpu_Zl1vKeGXtrh_t8xfXlTQ&s=10",
+      "description": "Elegant gold-framed round mirror to brighten hallways and entryways.",
+      "rating": 4.7,
+      "stock": 12
+    },
+    {
+      "id": "decor-506",
+      "name": "Artificial Faux Potted Eucalyptus Plant",
+      "price": 499,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvUSMoKON7gZDv0uoqLK1J8DtI8xVwzTLNA5QAoILpw&s",
+      "description": "Realistic UV-resistant artificial plant in a decorative matte white ceramic pot.",
+      "rating": 4.8,
+      "stock": 30
+    },
+    {
+      "id": "decor-507",
+      "name": "Geometric Tabletop Metal Photo Frame",
+      "price": 349,
+      "category": "Home Decor",
+      "image": "https://m.media-amazon.com/images/I/61AYSf9KBWL._AC_UF894,1000_QL80_.jpg",
+      "description": "Modern floating glass picture frame for desks and living room shelves.",
+      "rating": 4.6,
+      "stock": 25
+    },
+    {
+      "id": "decor-508",
+      "name": "Handmade Jute Area Table Runner",
+      "price": 599,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpKJlK-oSEXk2dZT_MycrQ1TL2vjgJ00qZTgTP-A2mw&s",
+      "description": "Natural braided eco-friendly rustic table runner for dining table decor.",
+      "rating": 4.7,
+      "stock": 18
+    },
+    {
+      "id": "decor-509",
+      "name": "Decorative LED Marquee Letter Light",
+      "price": 449,
+      "category": "Home Decor",
+      "image": "https://www.satyamstationers.com/cdn/shop/files/Sedbacf4d330244789ed44e66918fd0dd5.jpg?v=1701270307&width=1445",
+      "description": "Battery-operated warm white accent illumination sign for bedroom walls.",
+      "rating": 4.5,
+      "stock": 22
+    },
+    {
+      "id": "decor-510",
+      "name": "Abstract Canvas Wall Art Panel",
+      "price": 1299,
+      "category": "Home Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrc-yO3B56tax2LMViHEOUDS9fE9XuWBvWp7vwCmsGBQ&s=10",
+      "description": "Framed contemporary minimalist aesthetic painting for living room walls.",
+      "rating": 4.9,
+      "stock": 10
+    },
+    {
+      "id": "furn-601",
+      "name": "Ergonomic Wooden Lounge Chair",
+      "price": 6499,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi3-Uk_6b0fFhTRDSA1xMNy6PAoxZnyTcIUYDhJjLL0A&s",
+      "description": "Comfortable solid oak armchair with plush cushioned seating.",
+      "rating": 4.8,
+      "stock": 8
+    },
+    {
+      "id": "furn-602",
+      "name": "Minimalist Wooden Coffee Table",
+      "price": 4299,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutx9IA1_b9QTNdl7oslfF1N7tPSsVS1tkeKb8_G5zHA&s",
+      "description": "Modern Scandinavian coffee table with durable scratch-resistant top.",
+      "rating": 4.6,
+      "stock": 10
+    },
+    {
+      "id": "furn-603",
+      "name": "4-Tier Wooden Bookshelf",
+      "price": 3499,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVESgQ4qnpOtNuCmJptmXOcU9Qg7xPr8ZMNYmUC0fxuQ&s=10",
+      "description": "Sturdy open shelf rack for books, decor display, and organization.",
+      "rating": 4.7,
+      "stock": 12
+    },
+    {
+      "id": "furn-604",
+      "name": "Upholstered Footrest Ottoman Stool",
+      "price": 1299,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhx-hAqGqO01UH2_TbVV7UFKUIrsvIAdPnLmP3V5rmhQ&s",
+      "description": "Compact padded pouf stool with wooden legs for living rooms.",
+      "rating": 4.5,
+      "stock": 20
+    },
+    {
+      "id": "furn-605",
+      "name": "Wall-Mounted Floating Shelf Set",
+      "price": 899,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Z-CEhK-c2BFH5w9Iul9KwhZi_5OJghJGKsQlCreM8g&s",
+      "description": "Set of 3 rustic pine wood floating shelves with invisible brackets.",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": "furn-606",
+      "name": "Foldable Wooden Bedside Laptop Table",
+      "price": 999,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPr8NqVK1Vif6SZA6r4hec0PUH-8tDh29_7dbEtv3YPw&s=10",
+      "description": "Portable ergonomic study desk with cup holder and tablet slot for bed or sofa.",
+      "rating": 4.7,
+      "stock": 22
+    },
+    {
+      "id": "furn-607",
+      "name": "Metal Bedside Nightstand Table",
+      "price": 1899,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzOiFVJ0EyxdkYLeh5hgIyyVo166t7WT3vttNwcQiJA&s=10",
+      "description": "Industrial style single door nightstand with storage shelf for bedrooms.",
+      "rating": 4.6,
+      "stock": 14
+    },
+    {
+      "id": "furn-608",
+      "name": "Foldable Metal Shoe Rack Organizer",
+      "price": 1199,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJY-H7Pgl8KPO0lkJ8vqTgGIK-8t71DIgTGUAfn7LGZA&s=10",
+      "description": "Multi-tier free standing entryway footwear shelf stand.",
+      "rating": 4.5,
+      "stock": 16
+    },
+    {
+      "id": "furn-609",
+      "name": "Standing Coat and Hat Tree Rack",
+      "price": 1499,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvbAqA6EDNkqslrgmB1bt298JLr74k92NfxNbDeZZ1Q&s=10",
+      "description": "Solid wood entryway garment hall tree with multiple sturdy hanging hooks.",
+      "rating": 4.8,
+      "stock": 11
+    },
+    {
+      "id": "furn-610",
+      "name": "Adjustable Office Desk Chair",
+      "price": 4999,
+      "category": "Furniture",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nd11J2SGVhi5zcRajrvk4IBEAuzs36T5i95TsgNu_g&s",
+      "description": "Ergonomic mesh rolling task chair with lumbar support and height adjustment.",
+      "rating": 4.9,
+      "stock": 7
+    },
+    {
+      "id": "groc-701",
+      "name": "Organic Extra Virgin Olive Oil 1L",
+      "price": 1199,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-du7FnZM3c9P5AZEyxEMoiHs5qlWVGczTf3oubwAkxw&s=10",
+      "description": "Cold-pressed premium Mediterranean olive oil for cooking and salads.",
+      "rating": 4.9,
+      "stock": 35
+    },
+    {
+      "id": "groc-702",
+      "name": "Premium Basmati Rice 5kg",
+      "price": 849,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvlZAFLPo8m5YhWT9v-f_WEmw2vbrVdTF_3M-V5U2Rg&s=10",
+      "description": "Aged long-grain aromatic rice perfect for biryani and daily meals.",
+      "rating": 4.8,
+      "stock": 40
+    },
+    {
+      "id": "groc-703",
+      "name": "Natural Himalayan Pink Salt 1kg",
+      "price": 149,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-lIggcJHMTxu1QpL56oTDdzZZoxUD-BnxssrWGdzTA&s=10",
+      "description": "Unrefined mineral-rich rock salt for healthy cooking and seasoning.",
+      "rating": 4.7,
+      "stock": 50
+    },
+    {
+      "id": "groc-704",
+      "name": "Raw Wild Forest Honey 500g",
+      "price": 399,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7YmHiIwDHEcvrKYID415K1Qh0HURw2ItGlqcswh99Q&s=10",
+      "description": "100% pure unprocessed natural honey harvested from forest apiaries.",
+      "rating": 4.9,
+      "stock": 30
+    },
+    {
+      "id": "groc-705",
+      "name": "Roasted Mixed Nuts Snack Pack 500g",
+      "price": 799,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWs6_6vEEArc8w0ig-SU-QNfYo5zUi_xuaDNZ1f-dOag&s",
+      "description": "Crunchy blend of almonds, cashews, walnuts, and pistachios.",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": "groc-706",
+      "name": "Organic Whole Wheat Chakki Atta 5kg",
+      "price": 299,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkik7XkUE3bf4gpBeVhujyPSPuu8xLpSN_IxejvcGcw&s=10",
+      "description": "Stone-ground whole wheat flour rich in fiber for soft daily rotis.",
+      "rating": 4.8,
+      "stock": 40
+    },
+    {
+      "id": "groc-707",
+      "name": "Dark Roasted Coffee Beans 250g",
+      "price": 499,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciQbDnfOmVUbeMijxylEZkfUEXsA0DB9iOslosmCbZw&s=10",
+      "description": "Rich aromatic Arabica coffee beans for fresh morning brews.",
+      "rating": 4.7,
+      "stock": 32
+    },
+    {
+      "id": "groc-708",
+      "name": "Organic Rolled Oats 1kg",
+      "price": 349,
+      "category": "Groceries",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0kmksJib2vMoNR2AIfNs_b667ccP0JR9e9XE461I2A&s=10",
+      "description": "Heart-healthy whole grain breakfast oats packed with dietary fiber.",
+      "rating": 4.6,
+      "stock": 38
+    },
+    {
+      "id": "groc-709",
+      "name": "Natural Peanut Butter Crunchy 500g",
+      "price": 399,
+      "category": "Groceries",
+      "image": "https://sanskritibazaar.in/uploads/media/2026/Preview-1_Hero_Image1.webp",
+      "description": "High protein unsweetened peanut spread with real roasted peanut chunks.",
+      "rating": 4.8,
+      "stock": 45
+    },
+    {
+      "id": "groc-710",
+      "name": "Assorted Herbal Green Tea Bags (100 Pcs)",
+      "price": 549,
+      "category": "Groceries",
+      "image": "https://www.bbassets.com/media/uploads/p/xl/40004135_13-lipton-green-tea-pure-light.jpg",
+      "description": "Antioxidant-rich soothing green tea infusion bags for daily wellness.",
+      "rating": 4.7,
+      "stock": 29
+    },
+    {
+      "id": "bed-801",
+      "name": "100% Cotton Double Bed Sheet Set",
+      "price": 1499,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW3pOM46czxfOgIdb64fw3PPxHCKwHhKKHM2n2NBdGkw&s=10",
+      "description": "Soft 300 thread count breathable cotton bed sheet with 2 pillowcases.",
+      "rating": 4.7,
+      "stock": 20
+    },
+    {
+      "id": "bed-802",
+      "name": "Orthopedic Memory Foam Sleeping Pillow",
+      "price": 1199,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN11B9Fp4pPR-ZXbKoPOENC50utl42CVdMCEajotqzfQ&s=10",
+      "description": "Ergonomic neck support pillow with removable washable bamboo cover.",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": "bed-803",
+      "name": "All-Season Microfiber Quilt Comforter",
+      "price": 1999,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqZpwyLGUcVjxtEloApQtq2l6-B1jtklEgTHQdOuMBg&s",
+      "description": "Lightweight cozy quilt suitable for AC rooms and winter nights.",
+      "rating": 4.7,
+      "stock": 15
+    },
+    {
+      "id": "bed-804",
+      "name": "Waterproof Mattress Protector Cover",
+      "price": 899,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLeD-JpGxiAY48Q3Y4zKAjSfgLOulkjerPsRBrmvZtyQ&s=10",
+      "description": "Breathable noiseless mattress cover that protects against spills and stains.",
+      "rating": 4.6,
+      "stock": 30
+    },
+    {
+      "id": "bed-805",
+      "name": "Luxury Satin Pillowcase Pair",
+      "price": 499,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrA7bqwTnAIC1Gq0yPmtbu_i0qQHXN5fGR81e9AK20g&s",
+      "description": "Smooth satin pillow covers designed to reduce hair frizz and skin creases.",
+      "rating": 4.8,
+      "stock": 40
+    },
+    {
+      "id": "bed-806",
+      "name": "Ultra-Soft Plush Fleece Blanket",
+      "price": 999,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgYrG1NNf5P2xcNyijHHXn1tqFpsA-loWTOUMrFwDPrA&s=10",
+      "description": "Warm, anti-pilling flannel fleece throw blanket for bed and sofa comfort.",
+      "rating": 4.9,
+      "stock": 25
+    },
+    {
+      "id": "bed-807",
+      "name": "Cotton Woven Bed Runner and Cushion Cover Set",
+      "price": 899,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1r5qwfGGG2ICAKhhiGtOXtjLv4Ll43RxynMao79gV0g&s",
+      "description": "Decorative bedroom styling set with matching bed runner and accent covers.",
+      "rating": 4.5,
+      "stock": 18
+    },
+    {
+      "id": "bed-808",
+      "name": "Hotel Luxury Down Alternative Duvet Insert",
+      "price": 2499,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdb1_xamusRGQL7yzWYJzs27D1ONP0yTa5Mw5QVomd9w&s",
+      "description": "Fluffy corner-tab duvet insert providing plush warmth for master bedrooms.",
+      "rating": 4.9,
+      "stock": 12
+    },
+    {
+      "id": "bed-809",
+      "name": "Plain Fitted King Size Bed Sheet",
+      "price": 1299,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhjrvhMjPX63V0GowTIBsD15MBC87IeSFT0l_sBZLpA&s=10",
+      "description": "Elasticized deep pocket fitted sheet ensuring a snug, wrinkle-free mattress fit.",
+      "rating": 4.7,
+      "stock": 22
+    },
+    {
+      "id": "bed-810",
+      "name": "Decorative Bedside Floor Rug Mat",
+      "price": 699,
+      "category": "Bedding & Linens",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbviKuIlnTDz9scQwkUQ0wL6dtHVrRrUyQEhKzUwrbwg&s=10",
+      "description": "Soft fluffy bedroom bedside accent rug for warm morning footing.",
+      "rating": 4.6,
+      "stock": 26
+    },
+    {
+      "id": "bath-901",
+      "name": "Plush Bamboo Bath Towel Set",
+      "price": 999,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuB9I8O-PGve5AXOxeKQZb5y8uOl9lZuNoYn1RS8SxA&s",
+      "description": "Ultra-soft and fast-drying natural bamboo fiber bath towels.",
+      "rating": 4.8,
+      "stock": 28
+    },
+    {
+      "id": "bath-902",
+      "name": "Anti-Slip Microfiber Bath Mat",
+      "price": 399,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtSUpYf9ygHfpubjlx5quz0V_ELo6Rh9gvA6SFb8gMw&s",
+      "description": "Super absorbent plush rug with TPR rubber non-skid backing.",
+      "rating": 4.7,
+      "stock": 35
+    },
+    {
+      "id": "bath-903",
+      "name": "Ceramic Bathroom Accessory 4-Piece Set",
+      "price": 799,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVNYVDuVhVKIXrIl3QlgVTxGCUoNlKrIVYS3LOyBEJQ&s",
+      "description": "Includes liquid soap dispenser, toothbrush holder, tumbler, and soap dish.",
+      "rating": 4.6,
+      "stock": 20
+    },
+    {
+      "id": "bath-904",
+      "name": "High-Pressure Shower Head with Filter",
+      "price": 699,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDiAGyw4hzcduuY0920yWUL8DwqJNvFR0J3BV6vxoIg&s=10",
+      "description": "Water-saving showerhead with built-in filtration beads for hard water.",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": "bath-905",
+      "name": "Stainless Steel Wall-Mounted Towel Rack",
+      "price": 899,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdyHjm4o6wEbcVUGjDZ3rWsIgR5QGceCD1hultAwOrg&s=10",
+      "description": "Rust-proof double towel bar shelf with hooks for bathroom organization.",
+      "rating": 4.7,
+      "stock": 18
+    },
+    {
+      "id": "bath-906",
+      "name": "Silicone Drain Hair Catcher & Stopper (Set of 2)",
+      "price": 199,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4DpJQu42BiCyTU9IgWRDWqDNHN4iZ-jorI3ooplFntQ&s=10",
+      "description": "Flexible suction-cup drain covers designed to prevent shower clogs effortlessly.",
+      "rating": 4.5,
+      "stock": 60
+    },
+    {
+      "id": "bath-907",
+      "name": "Waterproof Fabric Shower Curtain with Hooks",
+      "price": 499,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCe9vhx4DdcKRIdWEQyMwh2J3ej8frBfYmPW-tF1mFQ&s",
+      "description": "Mold-resistant polyester bath curtain with rustproof metal grommets.",
+      "rating": 4.6,
+      "stock": 30
+    },
+    {
+      "id": "bath-908",
+      "name": "Extendable Tension Shower Curtain Rod",
+      "price": 599,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09XmNFBhHlDQWmY0w4PbyfcCuwF8N5Fmnpgi0oYF_lA&s=10",
+      "description": "No-drill spring loaded adjustable stainless steel hanging rod.",
+      "rating": 4.7,
+      "stock": 22
+    },
+    {
+      "id": "bath-909",
+      "name": "Automatic Touchless Soap Dispenser",
+      "price": 999,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpyTHXSeDs8s9N9OktcRPfyIqeD2tvxypfmf3tUVybHQ&s",
+      "description": "Motion sensor liquid soap pump for hygienic hand washing.",
+      "rating": 4.8,
+      "stock": 16
+    },
+    {
+      "id": "bath-910",
+      "name": "Wall-Mounted Corner Shower Caddy Shelf",
+      "price": 749,
+      "category": "Bathroom Essentials",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCTBY-Ot6TgIYNKuNFWId2HxVA0SJHIm8506ySVX6ag&s",
+      "description": "Adhesive rustproof wire basket organizer for shampoo and soap bottles.",
+      "rating": 4.7,
+      "stock": 25
+    },
+    {
+      "id": "light-1001",
+      "name": "Warm LED Table Study Lamp",
+      "price": 1199,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAs8bmVh_L_3L-F-yCK-mKTNP5B-4R8CZuBeWcyz3BMg&s=10",
+      "description": "Dimmable touch control LED desk lamp with eye-care warm light.",
+      "rating": 4.6,
+      "stock": 19
+    },
+    {
+      "id": "light-1002",
+      "name": "Warm White LED Fairy String Lights (10m)",
+      "price": 349,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkTtPrNS_zD7p1cPqr_cxKi6wKEzpZX78gSVzzhtvrA&s=10",
+      "description": "Flexible copper wire fairy lights with USB plug for bedroom ambiance.",
+      "rating": 4.8,
+      "stock": 50
+    },
+    {
+      "id": "light-1003",
+      "name": "Minimalist Wooden Floor Lamp",
+      "price": 2899,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShq-uQgBIAyqeIbLoIsCMJ5bg7nbBSUjOMKttUEw_VQQ&s=10",
+      "description": "Contemporary standing lamp with linen shade for living room corners.",
+      "rating": 4.7,
+      "stock": 12
+    },
+    {
+      "id": "light-1004",
+      "name": "Motion Sensor Wireless LED Night Lights (3 Pcs)",
+      "price": 699,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8GNrnovnjuNtbYbZKm9lLv_fFTz5ugMzHiiA-RBjb5g&s=10",
+      "description": "Rechargeable magnetic motion sensor lights for wardrobes and stairs.",
+      "rating": 4.9,
+      "stock": 30
+    },
+    {
+      "id": "light-1005",
+      "name": "Handcrafted Mosaic Glass Table Lamp",
+      "price": 1499,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3bT_faiatWKBcua2wTGlxYAoFjKMaj3BeMjf2HLYuBg&s=10",
+      "description": "Turkish style decorative colored glass bedside ambient lamp.",
+      "rating": 4.8,
+      "stock": 15
+    },
+    {
+      "id": "light-1006",
+      "name": "Smart WiFi RGB Ambient LED Light Bulb",
+      "price": 699,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5_QoM4xhHq9KwwevnPsKGsHMr-AEVxwydvMMfz01KA&s",
+      "description": "Voice and app-controlled color-changing LED bulb compatible with smart home setups.",
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": "light-1007",
+      "name": "Acrylic Photo Clip LED Message Board",
+      "price": 499,
+      "category": "Lighting & Decor",
+      "image": "https://m.media-amazon.com/images/I/41dOhV9nWhL._AC_UF894,1000_QL80_.jpg",
+      "description": "Glow note board with erasable pen for desktop messages and night light decor.",
+      "rating": 4.6,
+      "stock": 22
+    },
+    {
+      "id": "light-1008",
+      "name": "Vintage Edison Filament LED Bulbs (Pack of 2)",
+      "price": 599,
+      "category": "Lighting & Decor",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCJq2fzdrjpJtVOUOamu1TTq9Shu5SJXLp-3acBb2eA&s",
+      "description": "Retro style warm amber glow energy saving decorative light bulbs.",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": "light-1009",
+      "name": "Solar Powered Outdoor Garden Lamp (Set of 2)",
+      "price": 899,
+      "category": "Lighting & Decor",
+      "image": "https://m.media-amazon.com/images/I/815zWySX+YL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Weatherproof automatic dusk-to-dawn stake lights for pathways and yards.",
+      "rating": 4.7,
+      "stock": 18
+    },
+    {
+      "id": "light-1010",
+      "name": "Crystal Bedside Projection Lamp",
+      "price": 1299,
+      "category": "Lighting & Decor",
+      "image": "https://m.media-amazon.com/images/I/61kp0IqrkjL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Touch control diamond refracting night light creating romantic ambiance.",
+      "rating": 4.9,
+      "stock": 14
+    },
+    {
+      "id": "laund-1101",
+      "name": "Foldable Stainless Steel Drying Rack",
+      "price": 1899,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmouQkkjVXOMxnIMuR8AoVVWCtWAfRE3IruWtnbB_Uig&s=10",
+      "description": "Space-saving rust-proof clothes drying stand for indoor and balcony use.",
+      "rating": 4.5,
+      "stock": 14
+    },
+    {
+      "id": "laund-1102",
+      "name": "Collapsible Laundry Hamper Basket",
+      "price": 599,
+      "category": "Laundry Care",
+      "image": "https://m.media-amazon.com/images/I/81vWTK2C7GL.jpg",
+      "description": "Large breathable cotton canvas laundry basket with carry handles.",
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": "laund-1103",
+      "name": "Mesh Laundry Wash Bags for Delicates (4 Pcs)",
+      "price": 299,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7yxuQOGj6uMmY4eo5nb6WX2zKDYxg7i-kluEnIcNzw&s",
+      "description": "Zippered net bags to protect garments during machine washing.",
+      "rating": 4.8,
+      "stock": 45
+    },
+    {
+      "id": "laund-1104",
+      "name": "Heavy Duty Wooden Clothes Hangers (10 Pcs)",
+      "price": 799,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk525zfxrRHTXt0BaIRfCDQbfccwLmCB18nSAs9d1lfA&s",
+      "description": "Smooth natural wood suit hangers with non-slip pant bar.",
+      "rating": 4.6,
+      "stock": 25
+    },
+    {
+      "id": "laund-1105",
+      "name": "Wool Dryer Balls Reusable Pack (6 Pcs)",
+      "price": 499,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAnNgp7pQbK8PCXVaiP7D3kPTqWQpWSpZG1Ud5pjCNw&s",
+      "description": "Eco-friendly fabric softener balls that reduce drying time and static.",
+      "rating": 4.8,
+      "stock": 35
+    },
+    {
+      "id": "laund-1106",
+      "name": "Electric Fabric Lint & Pilling Remover",
+      "price": 599,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_GUhGoB4kAgBEKJgDOyQh9ftQYwxlKqLOB-_rvDvoQ&s=10",
+      "description": "Rechargeable fabric shaver that restores clothes, sweaters, and upholstery gently.",
+      "rating": 4.8,
+      "stock": 35
+    },
+    {
+      "id": "laund-1107",
+      "name": "Plastic Clothes Pegs with Storage Basket (24 Pcs)",
+      "price": 199,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoIuRUUDnXPJ4GrQ-41iZPjxDa4r29QfVNApxagELIg&s",
+      "description": "Windproof heavy-grip colored clips for hanging laundry securely.",
+      "rating": 4.6,
+      "stock": 50
+    },
+    {
+      "id": "laund-1108",
+      "name": "Portable Handheld Clothes Steamer",
+      "price": 1499,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-X1Spr8XCEDopSohYICP7Ab4r6krW7pmFuZ9XfBwSg&s=10",
+      "description": "Fast heat-up wrinkle remover garment steamer for travel and home use.",
+      "rating": 4.7,
+      "stock": 18
+    },
+    {
+      "id": "laund-1109",
+      "name": "Wall-Mounted Retractable Clothesline",
+      "price": 449,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0fIf1irOZJZEO8IAD_NLR9dnce9P2Xl2ybQmxRuOHQ&s=10",
+      "description": "Sturdy pull-out single string drying line for balconies and bathrooms.",
+      "rating": 4.5,
+      "stock": 28
+    },
+    {
+      "id": "laund-1110",
+      "name": "Heavy Duty Ironing Board with Iron Rest",
+      "price": 2199,
+      "category": "Laundry Care",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL44R__nDGdfArXbAEoh8uMUUqqAlFcP3mWNt0w2X6bw&s",
+      "description": "Stable folding height-adjustable ironing table with heat-resistant surface.",
+      "rating": 4.9,
+      "stock": 9
+    },
+    {
+      "id": "gard-1201",
+      "name": "Indoor Ceramic Planter Pot Set",
+      "price": 899,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xTNL57KMI6p68JZU5kBeeuZQpxRpO9bduPgqWGW-DQ&s",
+      "description": "Stylish ceramic planters with drainage holes and bamboo saucers.",
+      "rating": 4.8,
+      "stock": 22
+    },
+    {
+      "id": "gard-1202",
+      "name": "3-Piece Stainless Steel Gardening Tool Kit",
+      "price": 499,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyq3jnuIwmnaDxuFDd-u9b8O5xEaNCl4toRFViw62uEw&s",
+      "description": "Ergonomic hand trowel, transplant spade, and cultivator rake set.",
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": "gard-1203",
+      "name": "Pressure Spray Mister Bottle 1.5L",
+      "price": 349,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcFOtKnz9TzpuNJqMmdVT1Ru5eJbWTkgqazYv5zV6YA&s",
+      "description": "Adjustable brass nozzle hand pump sprayer for watering indoor plants.",
+      "rating": 4.6,
+      "stock": 40
+    },
+    {
+      "id": "gard-1204",
+      "name": "Organic Vermicompost Plant Fertilizer 5kg",
+      "price": 299,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_04YDantqZAP7haAPntyNW9kpFM53w0Ssd5iKnKAHA&s=10",
+      "description": "Nutrient-rich natural earthworm compost for healthy roots and foliage.",
+      "rating": 4.9,
+      "stock": 50
+    },
+    {
+      "id": "gard-1205",
+      "name": "Heavy Duty Garden Pruning Shears",
+      "price": 399,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJI4bdFxMgC_rJr8nwhgGdrCzsFl9R_5IT8_6UzDpeA&s",
+      "description": "Sharp carbon steel bypass clippers with safety lock for trimming branches.",
+      "rating": 4.8,
+      "stock": 28
+    },
+    {
+      "id": "gard-1206",
+      "name": "Coir Moss Pole for Climbing Indoor Plants",
+      "price": 249,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShiAJqlX09VawaeQxPGT43RANZEMJT5JtDYFQBZcuHWg&s",
+      "description": "Stackable natural coconut fiber support pole ideal for money plants and monsteras.",
+      "rating": 4.7,
+      "stock": 40
+    },
+    {
+      "id": "gard-1207",
+      "name": "Self-Watering Plastic Flower Pots (Pack of 4)",
+      "price": 699,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYdQFp69bHsgzPZnZan7F5ElsFTVl55sqKKOc_KaF8zw&s=10",
+      "description": "Modern decorative planters with water level indicator and deep reservoir base.",
+      "rating": 4.8,
+      "stock": 20
+    },
+    {
+      "id": "gard-1208",
+      "name": "Heavy Duty Garden Hose Pipe 10m",
+      "price": 799,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGB4c55KFWc_nYQF86ysX16E_ZvUDg2v6dDP8TDjvPw&s=10",
+      "description": "Kink-resistant flexible watering pipe with multi-pattern spray nozzle gun.",
+      "rating": 4.6,
+      "stock": 15
+    },
+    {
+      "id": "gard-1209",
+      "name": "Plant Growing LED Grow Light Bulb",
+      "price": 599,
+      "category": "Gardening & Plants",
+      "image": "https://m.media-amazon.com/images/I/51LLKheLiEL._AC_UF350,350_QL80_.jpg",
+      "description": "Full spectrum indoor hydroponic gardening lamp for seeds and house plants.",
+      "rating": 4.7,
+      "stock": 25
+    },
+    {
+      "id": "gard-1210",
+      "name": "Breathable Fabric Grow Bags (Set of 5)",
+      "price": 499,
+      "category": "Gardening & Plants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPzkNkBeOQPVGBI5EEiaE1Gswu6MdSTQ2YDXRt6RcZunRy6rLKJwYcHtJ&s=10",
+      "description": "Heavy-duty aeration potato and vegetable planting sacks with sturdy handles.",
+      "rating": 4.9,
+      "stock": 32
+    }
+  ]
+}
