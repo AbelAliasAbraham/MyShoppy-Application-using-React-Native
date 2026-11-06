@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # MyShoppy-Application-using-React-Native
-=======
-# 🛍️ MyShoppy
+
 
 A modern React Native shopping application built with **Expo** and **TypeScript**. MyShoppy provides a clean and intuitive e-commerce experience where users can browse household products, search and filter items, view product details, manage a shopping cart, and complete a checkout process.
 
